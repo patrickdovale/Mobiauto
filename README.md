@@ -1,7 +1,7 @@
 # Mobiauto
 
 #### Veja na WEB
-* [mobiauto-a5euk94ni-patrickdovale.vercel.app](mobiauto-a5euk94ni-patrickdovale.vercel.app)
+* [http://mobiauto-a5euk94ni-patrickdovale.vercel.app](http://mobiauto-a5euk94ni-patrickdovale.vercel.app)
 
 #### Tela Inicial
 ![image](https://user-images.githubusercontent.com/41561977/230632893-638dd481-acdf-4cc0-ae58-c4f2906f83f7.png)
