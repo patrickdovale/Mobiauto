@@ -9,8 +9,8 @@ const Navegation = () => {
       <S.CardSection>
         <S.TitleSection>Exercicios</S.TitleSection>
         <S.CardsContainer>
-          {exerciciesOption.map((item) => (
-            <Link href={item.url}>
+          {exerciciesOption.map((item, i) => (
+            <Link key={i} href={item.url}>
               <CardOption text={item.label} icon={item.icon} />
             </Link>
           ))}
@@ -20,8 +20,8 @@ const Navegation = () => {
       <S.CardSection>
         <S.TitleSection>Projetos</S.TitleSection>
         <S.CardsContainer>
-          {projectOption.map((item) => (
-            <Link href={item.url}>
+          {projectOption.map((item, i) => (
+            <Link key={i} href={item.url}>
               <CardOption text={item.label} icon={item.icon} />
             </Link>
           ))}
